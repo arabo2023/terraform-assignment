@@ -1,0 +1,9 @@
+  common_tags = {
+    "id"             = "2024"
+    "owner"          = "arabo"
+    "environment"    = "dev"
+    "project"        = "purple"
+    "create_by"      = "Terraform"
+    "cloud_provider" = "aws"
+    "company"        = "EKT"
+  }
